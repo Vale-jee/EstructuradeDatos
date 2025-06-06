@@ -1,0 +1,59 @@
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfoInputs.cache
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfo.cs
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.exe
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.deps.json
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.runtimeconfig.json
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\refint\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.genruntimeconfig.cache
+C:\Users\parap\OneDrive\Documents\Proyectos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\ref\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.exe
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.deps.json
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.runtimeconfig.json
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\bin\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfoInputs.cache
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfo.cs
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.sourcelink.json
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\refint\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\Datos_Primitivos.genruntimeconfig.cache
+C:\Users\parap\OneDrive\Documents\Tareas Estructura de Datos\Semana 2\Datos_Primitivos\obj\Debug\net9.0\ref\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\bin\Debug\net9.0\Datos_Primitivos.exe
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\bin\Debug\net9.0\Datos_Primitivos.deps.json
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\bin\Debug\net9.0\Datos_Primitivos.runtimeconfig.json
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\bin\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\bin\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfoInputs.cache
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfo.cs
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.sourcelink.json
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\refint\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\Datos_Primitivos.genruntimeconfig.cache
+C:\Users\parap\OneDrive\Documents\Estructura de Datos\Tareas\Semana 2\obj\Debug\net9.0\ref\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\bin\Debug\net9.0\Datos_Primitivos.exe
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\bin\Debug\net9.0\Datos_Primitivos.deps.json
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\bin\Debug\net9.0\Datos_Primitivos.runtimeconfig.json
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\bin\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\bin\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfoInputs.cache
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.AssemblyInfo.cs
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.csproj.CoreCompileInputs.cache
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.sourcelink.json
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\refint\Datos_Primitivos.dll
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.pdb
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\Datos_Primitivos.genruntimeconfig.cache
+C:\Users\parap\OneDrive\Documents\Visual Studio\Tareas\Estructura de Datos\obj\Debug\net9.0\ref\Datos_Primitivos.dll
