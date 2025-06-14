@@ -1,18 +1,18 @@
-﻿using System;  // Importa el espacio de nombres necesario para usar funciones básicas como Console
+﻿using System; // Permite usar la clase Console para imprimir en pantalla
 
-namespace RegistroEstudiante
+namespace RegistroEstudiante // Agrupa las clases dentro de un mismo “espacio de nombres”
 {
-    // Definición de la clase Estudiante
+    // ----- Clase que representa a un estudiante -----
     class Estudiante
     {
-        // Propiedades públicas que representan los datos de un estudiante
-        public int Id;
-        public string Nombres;
-        public string Apellidos;
-        public string Direccion;
-        public string[] Telefonos = new string[3]; // Arreglo para guardar 3 números de teléfono
+        // Campos (datos) públicos del estudiante
+        public int Id;                  // Identificador
+        public string Nombres;          // Nombres
+        public string Apellidos;        // Apellidos
+        public string Direccion;        // Dirección
+        public string[] Telefonos = new string[3]; // Arreglo de 3 teléfonos
 
-        // Método que muestra los datos del estudiante en consola
+        // ----- Muestra todos los datos del estudiante -----
         public void MostrarDatos()
         {
             Console.WriteLine("ID: " + Id);
@@ -20,66 +20,37 @@ namespace RegistroEstudiante
             Console.WriteLine("Apellidos: " + Apellidos);
             Console.WriteLine("Dirección: " + Direccion);
             Console.WriteLine("Teléfonos:");
-            // Recorre el arreglo de teléfonos y muestra cada número
+            // Recorre el arreglo y muestra cada teléfono
             for (int i = 0; i < Telefonos.Length; i++)
             {
                 Console.WriteLine($"  Teléfono {i + 1}: {Telefonos[i]}");
             }
-            Console.WriteLine("-------------------------------------\n");
         }
     }
 
-    // Clase principal que contiene el método Main
+    // ----- Clase principal que contiene el punto de entrada -----
     class Program
     {
-        // Método principal de ejecución del programa
+        // Método Main: la aplicación empieza aquí
         static void Main(string[] args)
         {
-            // Se declara un arreglo de 3 estudiantes
-            Estudiante[] estudiantes = new Estudiante[3];
-
-            // Se asignan los datos del Estudiante 1
-            estudiantes[0] = new Estudiante
+            // Crea un objeto Estudiante con datos fijos
+            Estudiante estudiante = new Estudiante
             {
-                Id = 1, // No uses ceros a la izquierda (001 genera advertencias en C#)
+                Id = 1,
                 Nombres = "Valeria Carolina",
                 Apellidos = "Chucchilan Guanoluisa",
                 Direccion = "Quito, Carapungo",
-                Telefonos = new string[] { "0987654321", "022345678", "0991122334" }
+                Telefonos = new string[]
+                {
+                    "0987654321",
+                    "022345678",
+                    "0991122334"
+                }
             };
 
-            // Se asignan los datos del Estudiante 2
-            estudiantes[1] = new Estudiante
-            {
-                Id = 2,
-                Nombres = "Carlos Andrés",
-                Apellidos = "Vega Molina",
-                Direccion = "Guayaquil, Urdesa",
-                Telefonos = new string[] { "0981122334", "042223344", "0999988776" }
-            };
-
-            // Se asignan los datos del Estudiante 3
-            estudiantes[2] = new Estudiante
-            {
-                Id = 3,
-                Nombres = "María Fernanda",
-                Apellidos = "Pérez Zambrano",
-                Direccion = "Cuenca, El Batán",
-                Telefonos = new string[] { "0976655443", "072334455", "0980011223" }
-            };
-
-            // Muestra el mensaje de encabezado
-            Console.WriteLine("--- Lista de Estudiantes Registrados ---\n");
-
-            // Recorre el arreglo de estudiantes y muestra los datos de cada uno
-            foreach (Estudiante estudiante in estudiantes)
-            {
-                estudiante.MostrarDatos();
-            }
-
-            // Pausa la consola hasta que el usuario presione una tecla
-            Console.WriteLine("Presiona cualquier tecla para salir...");
-            Console.ReadKey();
+            // Llama al método para imprimir los datos en pantalla
+            estudiante.MostrarDatos();
         }
     }
 }
