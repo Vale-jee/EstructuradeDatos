@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\Datos_Primitivos.csproj": {}
+    "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\semana02\\Datos_Primitivos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\Datos_Primitivos.csproj": {
+    "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\semana02\\Datos_Primitivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\Datos_Primitivos.csproj",
+        "projectUniqueName": "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\semana02\\Datos_Primitivos.csproj",
         "projectName": "Datos_Primitivos",
-        "projectPath": "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\Datos_Primitivos.csproj",
+        "projectPath": "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\semana02\\Datos_Primitivos.csproj",
         "packagesPath": "C:\\Users\\parap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\obj\\",
+        "outputPath": "C:\\Users\\parap\\OneDrive\\Documents\\Visual Studio\\Tareas\\Estructura de Datos\\semana02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parap\\AppData\\Roaming\\NuGet\\NuGet.Config"
